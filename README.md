@@ -9,7 +9,7 @@ efficientNetB0-yolo to caffe
 这里用的官方effi_b0.cfg文件,默认大家用过darknet做过yolo训练，所以训练步骤不详述
 caffe版本在今天弄通了。 是基于前辈们的工作做的粗糙的改动，因为没时间继续钻研，做系统性的封装。【永远没时间，就是懒.】
 
-**A.需要用到的前辈项目
+##A.需要用到的前辈项目
 
 darknet的版本：AlexeyAB大神的 git clone https://github.com/AlexeyAB/darknet 嗯，大佬地址
 
